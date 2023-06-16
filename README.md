@@ -3,6 +3,7 @@ Word Frequency lists collected from random online sources and spell checked.
 
 ## Column Info   
 Field Name	&emsp; Data Type	&emsp; Note
+---
 word	&emsp; Text	&emsp; Otherwise known as the type.  
 wordLen	&emsp; Number	&emsp; The number of characters in the type.  
 urlcount	&emsp; Number	&emsp; The number of web pages on which the token was found.  
